@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+ printf("hello world! am doing c programming\\hobby is cooding");
+ return 0;
+}
